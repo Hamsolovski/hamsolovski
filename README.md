@@ -10,7 +10,7 @@ Looking for a 15 month co-op program in Paris</h3>
 
 📄 Want to know more about my experiences ? [check my LinkedIn Profile](https://www.linkedin.com/in/antoine-delalande-678777b3/)
 
-- ⚡ Fun fact **My first steps as a dev were with Python while working in a social circus in Cambodia :)**
+⚡ Fun fact **My first steps as a dev were with Python while working in a social circus in Cambodia :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
