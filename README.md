@@ -2,13 +2,13 @@
 <h3 align="center">Learning web dev at Wild Code School Paris since february 2024 and having a blast !
 Looking for a 15 month co-op program in Paris</h3>
 
-- 🔭 I’m currently working on **Moov'it**, a React app to help you in your sportive journey, whether you are a complete beginner or practicing every day.
+⛹️I’m currently working on **Moov'it**, a React app to help you in your sportive journey, whether you are a complete beginner or practicing every day.
 
-- 🌱 I’m currently learning **react, javascript and express**
+📚 I’m currently learning **react, javascript and express** at Wild Code School Paris
 
-- 📫 You can reach me at **ant.delalande@gmail.com**
+📫 You can reach me at **ant.delalande@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/antoine-delalande-678777b3/](https://www.linkedin.com/in/antoine-delalande-678777b3/)
+📄 Want to know more about my experiences ? [check my LinkedIn Profile](https://www.linkedin.com/in/antoine-delalande-678777b3/)
 
 - ⚡ Fun fact **My first steps as a dev were with Python while working in a social circus in Cambodia :)**
 
