@@ -2,7 +2,7 @@
 <h3 align="center">Learning web dev at Wild Code School Paris since february 2024 and having a blast !
 Looking for a 15 month co-op program in Paris</h3>
 
-⛹️I’m currently working on **Moov'it**, a React app to help you in your sportive journey, whether you are a complete beginner or practicing every day.
+⛹️I’m currently working on [**Moov'it**](https://github.com/WildCodeSchool-2024-02/JS-Paris-BrainWaves-P3-Moovit), a React website to help you in your sportive journey, whether you are a complete beginner or practicing every day.
 
 📚 I’m currently learning **react, javascript and express** at Wild Code School Paris
 
