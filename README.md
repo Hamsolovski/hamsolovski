@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Antoine</h1>
+<h1 align="center">Oh hello there ! I'm Antoine</h1>
 <h3 align="center">Learning web dev at Wild Code School Paris since february 2024 and having a blast !
 Looking for a 15 month co-op program in Paris</h3>
 
