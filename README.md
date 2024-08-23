@@ -3,9 +3,9 @@
 
 ⛹️My final study project was [**Moov'it**](https://github.com/WildCodeSchool-2024-02/JS-Paris-BrainWaves-P3-Moovit), a React website to help you in your sportive journey, whether you are a complete beginner or practicing every day.
 
-📚 I’m currently learning **react, javascript and express** at Wild Code School Paris
+📚 I’m currently learning **react, javascript and express** at Wild Code School Paris. Regularly testing myself with Frontend Mentors challenges in [this repo](https://github.com/Hamsolovski/web-design-practice) 
 
-📫 You can reach me at **ant.delalande@gmail.com**
+📫 You can reach me at **hamsolovski@gmail.com**
 
 📄 Want to know more about my experiences ? [check my LinkedIn Profile](https://www.linkedin.com/in/antoine-delalande-678777b3/)
 
