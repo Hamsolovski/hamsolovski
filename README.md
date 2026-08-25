@@ -1,24 +1,61 @@
-<h1 align="center">Oh hello there ! I'm Antoine</h1>
-<h3 align="center">Learning web dev at Wild Code School Paris since february 2024 and having a blast !</h3>
-
-⛹️My final study project was [**Moov'it**](https://github.com/WildCodeSchool-2024-02/JS-Paris-BrainWaves-P3-Moovit), a React website to help you in your sportive journey, whether you are a complete beginner or practicing every day.
-
-📚 I’m currently learning **react, javascript and express** at Wild Code School Paris. Regularly testing myself with Frontend Mentors challenges in [this repo](https://github.com/Hamsolovski/web-design-practice) 
-
-📫 You can reach me at **hamsolovski@gmail.com**
-
-📄 Want to know more about my experiences ? [check my LinkedIn Profile](https://www.linkedin.com/in/antoine-delalande-678777b3/)
-
-⚡ Fun fact **My first steps as a dev were with Python while working in a social circus in Cambodia :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antoine-delalande-678777b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antoine-delalande-678777b3/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hamsolovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hamsolovski" height="30" width="40" /></a>
-</p>
-<p><a href="https://www.codewars.com/users/Hamsolovski"><img src="https://www.codewars.com/users/Hamsolovski/badges/small" alt="codewars"/></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
+# Salut, moi c'est Antoine
+ 
+**Développeur full-stack JavaScript / TypeScript — React · Node.js · GraphQL**
+Développeur chez [France Nature Environnement](https://www.fne.asso.fr), où je conçois et maintiens les outils internes de la fédération.
+ 
+Passé par la Wild Code School en 2024, puis alternant chez FNE où j'ai obtenu mon titre de **Concepteur Développeur d'Applications**. J'y suis resté : aujourd'hui je continue à maintenir et améliorer l'app que j'ai conçue, tout en découvrant de nouveaux projets.
+ 
+---
+ 
+## 🚀 Projets
+ 
+### ManitouH — application interne de France Nature Environnement
+Outil de planification de projets conçu et développé from scratch, avec authentification centralisée sur l'annuaire LDAP de l'organisation, API GraphQL typée de bout en bout et déploiement conteneurisé avec environnements de staging et de production.
+ 
+Ce que le projet m'a appris : mener seul la conception d'une application sur deux ans, concevoir un schéma GraphQL qui tient dans la durée, sécuriser une authentification en entreprise (LDAP interne, JWT, Argon2), et livrer sur une vraie chaîne de déploiement plutôt qu'en local.
+ 
+`React` `TypeScript` `Vite` `Tailwind` `shadcn/ui` `Zustand` `Zod` `GraphQL` `TypeGraphQL` `MongoDB` `Docker` `Nginx`
+🔒 Code non public (application interne)
+ 
+### BlablaWild — projet de fin de titre CDA
+Application de covoiturage développée en équipe de six : recherche de trajets sur une carte interactive et réservation de places.
+ 
+Notre parti pris : assumer un périmètre fonctionnel simple pour investir dans les fondations. Architecture client / serveur séparée, quatre environnements Docker distincts (développement, tests, staging, production), couverture de tests unitaires avec Vitest et end-to-end avec Playwright, le tout branché sur une CI/CD GitHub Actions.
+ 
+`React` `TypeScript` `GraphQL` `Docker` `Nginx` `GitHub Actions` `Playwright` `Vitest`
+🔗 [Code](https://github.com/WildCodeSchool/2024-09-wns-jaune-blablawild)
+ 
+### Quill
+Projet perso en cours : une application compagnon pour aider à la maîtrise de parties de jeu de rôle sur table. J'avais envie de tester du local-first — tout est stocké dans le navigateur via Dexie, sans back-end ni compte à créer, pour rester utilisable en pleine partie.
+ 
+`React` `Dexie` `IndexedDB`
+🔗 [Code](https://github.com/Hamsolovski/quill-app)
+ 
+<sub>**Plus anciens** — [Moov'it](https://github.com/WildCodeSchool-2024-02/JS-Paris-BrainWaves-P3-Moovit), application React d'accompagnement à la pratique sportive, projet de fin de bootcamp développé en équipe · [Web design practice](https://github.com/Hamsolovski/web-design-practice), intégrations issues des challenges Frontend Mentor.</sub>
+ 
+---
+ 
+## 🛠️ Stack
+ 
+**Front-end** — React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Zustand, Zod, GraphQL Codegen
+ 
+**Back-end** — Node.js, GraphQL, TypeGraphQL, Express, Passport (LDAP), JWT, Argon2, PHP
+ 
+**Données** — MongoDB / Mongoose, MySQL, Dexie / IndexedDB
+ 
+**Qualité & infrastructure** — Playwright, Vitest, Docker, Docker Compose, GitHub Actions, Nginx, Caddy, Bash, Git
+ 
+---
+ 
+## 👋 En ce moment
+ 
+- 🔭 Je fais évoluer ManitouH et je développe Quill quand j'ai le temps
+- 🌱 J'approfondis mes bases en algorithmique avec [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+- ⚡ Mes premiers pas de dev, c'était en Python, dans un cirque social au Cambodge
+---
+ 
+## 📫 Me contacter
+ 
+- **Email** — hamsolovski@gmail.com
+- **LinkedIn** — [antoine-delalande](https://www.linkedin.com/in/antoine-delalande-678777b3/)
+- **Codewars** — [Hamsolovski](https://www.codewars.com/users/Hamsolovski)
